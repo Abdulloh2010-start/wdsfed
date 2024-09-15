@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(238, 80, 80);
+}
+
+.a1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.a2{
+    color: yellow;
+}
+
+.a3{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+.a4{
+    font-size: 30px;
+}
+
+.a5{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.a6{
+    font-size: 20px;
+}
+
+.a7{
+    background-color: black;
+    width: 300px;
+    height: 290px;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.a8{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
